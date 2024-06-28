@@ -2,5 +2,8 @@
 egg-shaped smileys, inspired by the series of smileys for phpBB
 
 # screenshot
-![egghead-smilies](https://github.com/Mazeltof/egghead-smilies/assets/16059355/16de03b3-cd31-4f86-81e6-73c2b7618006)
+![egghead-smilies (darkbg)](https://github.com/Mazeltof/egghead-smilies/assets/16059355/a0df2812-fcf5-4310-97e4-243abe46485a)
+![egghead-smilies (lightbg)](https://github.com/Mazeltof/egghead-smilies/assets/16059355/65dea5f7-fbbc-49e4-bd78-4e9dfbb13395)
+
+
 
