@@ -2,8 +2,6 @@
 SVG « Scalable Vector Graphics » egg-shaped smileys, inspired by the series of smileys for phpBB
 
 # screenshots
-![egghead-smilies (darkbg)](https://github.com/Mazeltof/egghead-smilies/assets/16059355/a0df2812-fcf5-4310-97e4-243abe46485a)
-![egghead-smilies (lightbg)](https://github.com/Mazeltof/egghead-smilies/assets/16059355/65dea5f7-fbbc-49e4-bd78-4e9dfbb13395)
-
-
+![egghead-smilies-v1 0 0 (dark-bg)](https://github.com/Mazeltof/egghead-smilies/assets/16059355/b0f57f24-9859-424c-9175-1cbf3cf24338)
+![egghead-smilies-v1 0 0 (light-bg)](https://github.com/Mazeltof/egghead-smilies/assets/16059355/ce93dd4a-737f-4ec5-95fd-a63fa855dbf8)
 
