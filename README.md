@@ -1,4 +1,4 @@
-# egghead-smilies
+# SVG-egghead-smilies
 SVG « Scalable Vector Graphics » egg-shaped smileys, inspired by the series of smileys for phpBB
 
 # screenshots
